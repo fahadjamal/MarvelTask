@@ -1,0 +1,5 @@
+included:
+  - RxSwiftTask
+
+excluded:
+  - Pods
