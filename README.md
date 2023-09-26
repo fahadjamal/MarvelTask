@@ -1,5 +1,4 @@
 # MarvelTask
-MarvelTask
 App Description
 
 Using this application, users will be able to browse through the Marvel
